@@ -1,3 +1,3 @@
 module github.com/lemon-mint/connection-manager
 
-go 1.16
+go 1.18
